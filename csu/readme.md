@@ -16,14 +16,13 @@
 	pip intstall selenium
 
 besides,you should install webdriver for chrome and add it to path on your pc   
-
 ## 	modify the config.py   
 change the 'ACCOUNT' and `PASSWORD' to yours  
 
 ## run the ui.py   
 wait a minute,and you will see the scores shown on panel   
 
-# Concerns  
+# :dolphin:Concerns  
 
 ## Only for Educational administration system of CSU
 
