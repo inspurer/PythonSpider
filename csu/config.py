@@ -1,2 +1,2 @@
-ACCOUNT = "0905160212"
-PASSWORD = "@CSUxiaotao1998"
+ACCOUNT = "your_account"
+PASSWORD = "your_password"
