@@ -40,7 +40,7 @@ class bilibili():
         temp = json.loads(result)
         #temp['durl']是一个列表，里面有很多字典
         #video_url = temp['durl']
-        for item in temp['durl']:
+        for item in temp['data']['durl']:
             if 'url' in item.keys():
                 video_url = item['url']
         #print(video_url)
